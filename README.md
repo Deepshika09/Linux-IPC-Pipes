@@ -205,6 +205,8 @@ void client() {
 
 ## OUTPUT
 
+![image](https://github.com/user-attachments/assets/e0250a27-3cc6-4d15-9f28-61a4849ca23f)
+
 
 # RESULT:
 The program is executed successfully.
