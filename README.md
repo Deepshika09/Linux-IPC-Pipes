@@ -114,6 +114,7 @@ void client(int wfd, int rfd) {
 ![Screenshot 2025-04-27 162009](https://github.com/user-attachments/assets/45c8ad62-2d83-41a1-8671-0382b522d814)
 
 ## C Program that illustrate communication between two process using named pipes using Linux API system calls
+```
 #include <stdio.h>
 #include <stdlib.h>
 #include <unistd.h>
@@ -200,13 +201,7 @@ void client() {
 
     close(fifo_fd);
 }
-
-
-
-
-
-
-
+```
 
 ## OUTPUT
 
